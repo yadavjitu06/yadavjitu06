@@ -1,4 +1,4 @@
-<img align="center" width="1400px" height="200px" alt="coder" src="https://github.com/nren07/nren07/blob/main/Newsletter%20(1).png"> <h1 align="center">Hi 👋, I'm Narendra Singh</h1> <h3 align="center">👨‍💻 Full Stack Developer | 🚀 Coding Enthusiast</h3> <img align="right" width="300px" alt="coder" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> <!-- Profile Statistics and Trophy Section --> <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nren07&label=Profile%20views&color=0e75b6&style=flat" alt="nren07" /> </p> -->
+<img align="center" width="1400px" height="200px" alt="coder" src="https://github.com/nren07/nren07/blob/main/Newsletter%20(1).png"> <h1 align="center">Hi 👋, I'm Jitender Yadav</h1> <h3 align="center">👨‍💻 React Js  Developer | 🚀 Coding Enthusiast</h3> <img align="right" width="300px" alt="coder" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> <!-- Profile Statistics and Trophy Section --> <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nren07&label=Profile%20views&color=0e75b6&style=flat" alt="nren07" /> </p> -->
 🔭 I’m currently working on Udise Portal Automation
 (Java, Spring Boot, React, Selenium, Docker)
 
@@ -8,7 +8,7 @@
 
 💬 Ask me about Core Java, OOPS, Spring Boot, React.js, Docker, and SQL
 
-📫 Reach me at imnren07@gmail.com
+📫 Reach me at Jitendrayad706@gmail.com.com
 
 📄 Check out my Resume
 
