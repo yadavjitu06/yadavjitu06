@@ -30,7 +30,7 @@ I am particularly excited about projects that solve real-world problems and brin
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yadavjitu06&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![]([https://github-contributor-stats.vercel.app/api](https://github.com/yadavjitu06?tab=repositories)?username=yadavjitu06&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
