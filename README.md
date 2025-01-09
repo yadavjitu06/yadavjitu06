@@ -1,10 +1,25 @@
 <img align="center" width="1400px" height="200px" alt="coder" src="https://github.com/nren07/nren07/blob/main/Newsletter%20(1).png">
 <h1 align="center">Hi 👋, I'm Jitender Yadav</h1>
+<h3 align="center">👨‍💻 Full Stack Developer | 🚀 Coding Enthusiast</h3>
 <h3 align="center">Hello, I am Jitender Yadav, a passionate Frontend React JS Developer skilled in building dynamic and responsive applications using React JS, Redux, TypeScript, NestJS, HTML5, CSS3, Bootstrap, Tailwind, and Sass. I have a strong understanding of modern web development practices and enjoy creating intuitive, scalable, and user-friendly applications for both web and mobile platforms.
 
 I am particularly excited about projects that solve real-world problems and bring tangible benefits to users. I continuously strive to enhance my skills by learning new technologies and exploring innovative solutions. I am a strong advocate for teamwork and thrive in collaborative environments, whether guiding others or learning from experienced professionals.
 
 📫 Feel free to connect with me via email at jitendrayad706@gmail.com, or reach out on LinkedIn using the link below. Let’s collaborate and build impactful solutions together!</h3>
+
+
+
+<img align="right" width="300px" alt="coder" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> <!-- Profile Statistics and Trophy Section --> <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nren07&label=Profile%20views&color=0e75b6&style=flat" alt="nren07" /> </p> -->
+
+
+🌱 I’m currently expanding my expertise in Web3 technologies and Blockchain development
+
+👨‍💻 All of my projects are available at GitHub
+💬 Ask me about JavaScript, TypeScript, ReactJS, GraphQL, Redux, NextJS, and MongoDB.
+
+📫 Reach me at Jitendrayad706@gmail.com
+
+📄 Check out my Resume
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavjitu06&label=Profile%20views&color=0e75b6&style=flat" alt="yadavjitu06" /> </p>
 
