@@ -1,6 +1,10 @@
 <img align="center" width="1400px" height="200px" alt="coder" src="https://github.com/nren07/nren07/blob/main/Newsletter%20(1).png">
 <h1 align="center">Hi 👋, I'm Jitender Yadav</h1>
-<h3 align="center">Hello, I am Jitender Yadav. I'm a developer who builds applications with HTML5, CSS3, Bootstrap, Tailwind, Sass, Typescript and Javascript, Redux, MVC, Firebase, Unittest, React and REACT Native to work and and I enjoy acting in a disciplined manner. 👀 Any project that people can use and benefit from easily excites me. I continue to improve myself in every field, whether mobile or web, by reading and researching. I am prone to teamwork 💞️ I'm thinking of collaborating on projects where I can work together, guide or provide assistance. 📫Email address where you can reach me Jitendrayad706@gmail.com You can also reach us via LinkedIn by clicking the link below.</h3>
+<h3 align="center">Hello, I am Jitender Yadav, a passionate Frontend React JS Developer skilled in building dynamic and responsive applications using React JS, Redux, TypeScript, NestJS, HTML5, CSS3, Bootstrap, Tailwind, and Sass. I have a strong understanding of modern web development practices and enjoy creating intuitive, scalable, and user-friendly applications for both web and mobile platforms.
+
+I am particularly excited about projects that solve real-world problems and bring tangible benefits to users. I continuously strive to enhance my skills by learning new technologies and exploring innovative solutions. I am a strong advocate for teamwork and thrive in collaborative environments, whether guiding others or learning from experienced professionals.
+
+📫 Feel free to connect with me via email at jitendrayad706@gmail.com, or reach out on LinkedIn using the link below. Let’s collaborate and build impactful solutions together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavjitu06&label=Profile%20views&color=0e75b6&style=flat" alt="yadavjitu06" /> </p>
 
