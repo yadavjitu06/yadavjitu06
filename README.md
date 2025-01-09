@@ -1,4 +1,8 @@
-<img align="center" width="1400px" height="200px" alt="coder" src="[https://github.com/nren07/nren07/blob/main/Newsletter%20(1).png](https://pin.it/5OB2QWXH6)"><h1 align="center">Hi 👋, I'm Jitender Yadav</h1>
+<video width="1400" height="200" controls>
+  <source src="[video-source.mp4](https://pin.it/5OB2QWXH6)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<h1 align="center">Hi 👋, I'm Jitender Yadav</h1>
 <h3 align="center">Hello, I am Jitender Yadav. I'm a developer who builds applications with HTML5, CSS3, Bootstrap, Tailwind, Sass, Typescript and Javascript, Redux, MVC, Firebase, Unittest, React and REACT Native to work and and I enjoy acting in a disciplined manner. 👀 Any project that people can use and benefit from easily excites me. I continue to improve myself in every field, whether mobile or web, by reading and researching. I am prone to teamwork 💞️ I'm thinking of collaborating on projects where I can work together, guide or provide assistance. 📫Email address where you can reach me Jitendrayad706@gmail.com You can also reach us via LinkedIn by clicking the link below.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavjitu06&label=Profile%20views&color=0e75b6&style=flat" alt="yadavjitu06" /> </p>
